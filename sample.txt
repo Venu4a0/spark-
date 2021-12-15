@@ -1,0 +1,53 @@
+"dataset": "BUT000",
+"delta_table_path": "/mnt/bronze/lob=cdp/delta/source=automotive/dataset=is-auto-customer-master/",
+"filepath": "/mnt/raw/cdp_raw/data/source=automotive/dataset=is-auto-customer-master/part=20210409/",        
+"part": "20210409"
+
+https://adb-2125789112152546.6.azuredatabricks.net/?o=2125789112152546#job/684/run/1
+
+table merged BUT000
+
+
+
+
+"dataset": "KNA1",
+        "delta_table_path": "/mnt/bronze/lob=cdp/delta/source=automotive/dataset=is-auto-customer/",
+        "filepath": "/mnt/raw/cdp_raw/data/source=automotive/dataset=is-auto-customer/part=20210409/",
+        "part": "20210409"
+
+
+https://adb-2125789112152546.6.azuredatabricks.net/?o=2125789112152546#job/686/run/1
+
+table created KNA1
+
+
+
+ "dataset": "BUT050",
+        "delta_table_path": "/mnt/bronze/lob=cdp/delta/source=automotive/dataset=is-auto-customer-bprelationshipcategory/",
+        "filepath": "/mnt/raw/cdp_raw/data/source=automotive/dataset=is-auto-customer-bprelationshipcategory/part=20210406/",
+        "part": "20210406"
+
+
+https://adb-2125789112152546.6.azuredatabricks.net/?o=2125789112152546#job/689/run/1
+
+
+
+
+
+"dataset": "KNVV",
+        "delta_table_path": "/mnt/bronze/lob=cdp/delta/source=automotive/dataset=is-auto-customer-salesorg/",
+        "filepath": "/mnt/raw/cdp_raw/data/source=automotive/dataset=is-auto-customer-salesorg/part=20210406/",
+        "part": "20210406"
+
+
+https://adb-2125789112152546.6.azuredatabricks.net/?o=2125789112152546#job/692/run/1
+
+
+
+
+"dataset": "BUT0ID",
+        "delta_table_path": "/mnt/bronze/lob=cdp/delta/source=automotive/dataset=is-auto-customer-emirates-id/",
+        "filepath": "/mnt/raw/cdp_raw/data/source=automotive/dataset=is-auto-customer-emirates-id/part=20210406/",
+        "part": "20210406"
+
+https://adb-2125789112152546.6.azuredatabricks.net/?o=2125789112152546#job/695/run/1
